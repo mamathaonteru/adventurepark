@@ -1,0 +1,25 @@
+body{
+
+	position:relative;
+}
+h2{text-align: center;}
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ a:link,a:visited{
+  background-color: black;
+  color:white;
+  padding:10px 15px 20px;
+  text-align:center;
+  display: inline;
+  margin-left: 22px;
+  margin-right: 100px;
+}
+a:hover,a:active{
+  background-color: brown;
+}
+body{
+  background-color: lemonchiffon;
+  background-repeat: repeat;
+}

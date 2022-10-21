@@ -1,0 +1,16 @@
+
+
+ body{
+ background-color: darkgoldenrod ;
+ background-repeat: repeat;
+ height: auto;
+ width: auto;
+ }
+ p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+ }
+h1{
+   color:darkgreen;
+   text-align: center;
+}
